@@ -1,0 +1,2912 @@
+credentials:
+  usernames:
+    xavi:
+      email:
+      name: Xavier
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C # To be replaced with hashed password
+      escola: Fab Lab Barcelona
+      id: 5000
+      type: 0
+      temaID: 0
+      tema: "Qualsevol cosa"
+    ario:
+      email:
+      name: Ana
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 100001
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    mhernandez:
+      email:
+      name: Manuel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 1
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    cmendoza:
+      email:
+      name: Carmen
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 2
+      type: 1
+      temaID: 1
+      tema: els aparells del cos huma.
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    sbougrina:
+      email:
+      name: Souhail
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 3
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    aimran:
+      email:
+      name: Ahmed
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 4
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    dzuniga:
+      email:
+      name: David
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 5
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      nivell: 1
+      idioma: catala
+    ialbuichec:
+      email:
+      name: Izan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 6
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    jchapas:
+      email:
+      name: Jabel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 7
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    skadiri:
+      email:
+      name: Salma
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 8
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    ggutierrez:
+      email:
+      name: G
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 9
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    hmuhamad:
+      email:
+      name: Haidar
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 10
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    bvargas:
+      email:
+      name: Britanny
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 11
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    ajamal:
+      email:
+      name: Anam
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 12
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    jkaur:
+      email:
+      name: Jasmeet
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 13
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    myemlahi:
+      email:
+      name: Mohamed
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 14
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    yduron:
+      email:
+      name: Yulia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 15
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    abilal:
+      email:
+      name: Alyan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 16
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 2
+      idioma: urdu
+    abimran:
+      email:
+      name: Abdullah
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 17
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 2
+      idioma: urdu
+    iyhoser:
+      email:
+      name: Iker
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 18
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    agonzalez:
+      email:
+      name: Angel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 19
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos huma i els aparells","Descriu el que saps del cos huma i els aparells","Descriu el que saps del cos huma i els aparells" ]
+      nivell: 1
+      idioma: catala
+    dizuniga:
+      email:
+      name: Diego
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 20
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    mfernandez:
+      email:
+      name: Marc
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 100005
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    bcuadrado:
+      email:
+      name: Bea
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 100006
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    earias:
+      email:
+      name: Eloy
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 21
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ybenlouadi:
+      email:
+      name: Yassin
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 22
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    rbourada:
+      email:
+      name: Riyam
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 23
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    scano:
+      email:
+      name: Santiago
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 24
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en castellano y catalan. Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    svargas:
+      email:
+      name: Sofía
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 25
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en catala. Answer only questions related to Ancient Rome. Answer with only 3 different short sentences.If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: castellano
+    bchairi:
+      email:
+      name: Badr
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 26
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    achiriac:
+      email:
+      name: Andrei
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 27
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    icisneros:
+      email:
+      name: Ismael
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 28
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    vcoello:
+      email:
+      name: Vagiolet
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 29
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en castellano y catalan. Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    zdass:
+      email:
+      name: Zion
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 30
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    mdonoso:
+      email:
+      name: Mateo
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 31
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en castellano y catalan. Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    mgaouta:
+      email:
+      name: Manar
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 32
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    tessayeh:
+      email:
+      name: Tulain
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 33
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    aflores:
+      email:
+      name: Andrés
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 34
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    didugboe:
+      email:
+      name: Derring
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 35
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    bimedadze:
+      email:
+      name: Barbi
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 36
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    kkaur:
+      email:
+      name: Khushpreet
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 37
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en catalan y urdú o pakistanés. Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 6
+      idioma: urdu
+    skhaddour:
+      email:
+      name: Saad
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 38
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    lkumar:
+      email:
+      name: Letizia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 39
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    nmoreno:
+      email:
+      name: Nazaret
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 40
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en catala. Answer only questions related to Ancient Rome. Answer with only 3 different short sentences.If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: castellano
+    tshahzad:
+      email:
+      name: Tayyab
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 41
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ptricolici:
+      email:
+      name: Polina
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 42
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta siempre relacionando la pregunta con la Antigua Roma.Para cada pregunta que realice, por favor proporciona la respuesta inicialmente en catalan. Luego, traduce esa respuesta al rumano. Si hay términos específicos o conceptos que no tienen un equivalente directo en rumano, por favor, indica esto y proporciona una explicación adecuada en ambos idiomas. Contesta con un màximo de 3 frases cortas.Al final, indica siempre que esta información la tienes que validar con la profesora. Responde como si tuviera 5 años y fuera a tercero de primaria. Si pregunta quelcom no relacionat amb Antiga Roma, digues que sempre ha de fer preguntes sobre Antiga Roma. La resposta sempre educadament en català i rumanés."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 7
+      idioma: rumanes
+    hzheng:
+      email:
+      name: Haouxuan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Escola Miguel Hernandez
+      id: 43
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: un comic
+      parlant: Camila
+      additional: "Contesta en catalan y chino. Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, say that the question should be related with Ancient Rome. Contesta sempre en catala i xines .You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 8
+      idioma: chino
+    arehman:
+      email:
+      name: Abeera
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 44
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan and Urdu. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and Urdu and always answer politely.Short answers."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 6
+      idioma: urdu
+    dbatista:
+      email:
+      name: Dylan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 45
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    ccastillo:
+      email:
+      name: Carlos
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 46
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    alasurashvili:
+      email:
+      name: Andria
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 47
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan and Georgian in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and Georgian and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 9
+      idioma: georgiano
+    dyumi:
+      email:
+      name: Diana
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 100007
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    pgarcia:
+      email:
+      name: Paco
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 48
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    storres:
+      email:
+      name: Samantha
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 49
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    mfernandez:
+      email:
+      name: Maria
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 50
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    uashfaq:
+      email:
+      name: Usman
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 51
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una imatge realista
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 1
+      idioma: catala
+    dmajdoub:
+      email:
+      name: Douae
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 52
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    aelahyani:
+      email:
+      name: Aya
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 53
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    egonçalves:
+      email:
+      name: Emanuela
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 54
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    fgueye:
+      email:
+      name: Fadilou
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 55
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    sjaved:
+      email:
+      name: Shanzay
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 56
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    mkaur:
+      email:
+      name: Manseerat
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 57
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    imerino:
+      email:
+      name: Iker
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 58
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 5
+      idioma: catala
+    ynawaz:
+      email:
+      name: Yusra
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 59
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    kpacheco:
+      email:
+      name: Kevin
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 60
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    zrehman:
+      email:
+      name: Zain
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 61
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    yrivera:
+      email:
+      name: Yurlenis
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 62
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 5
+      idioma: catala
+    jsaavedra:
+      email:
+      name: Javier
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 63
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    asegura:
+      email:
+      name: Adalgisa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 64
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    dsena:
+      email:
+      name: Dylan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 65
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 5
+      idioma: catala
+    asingh:
+      email:
+      name: Ashroop
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 66
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    rtrinidad:
+      email:
+      name: Raifel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 67
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    iyucra:
+      email:
+      name: Isai
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 68
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    czambrana:
+      email:
+      name: Carla
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 69
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    djimenez:
+      email:
+      name: Daniel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 70
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    mbarahona:
+      email:
+      name: Milan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: CR
+      id: 71
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    lmunoz:
+      email:
+      name: Luna
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 100008
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    sazizi:
+      email:
+      name: Soufia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 72
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    abhatti:
+      email:
+      name: Ahmed
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 73
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    bblandon:
+      email:
+      name: Bulmaro
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 74
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    acheco:
+      email:
+      name: Aihnoa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 75
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    mcruz:
+      email:
+      name: Mia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 76
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    jgouveia:
+      email:
+      name: Jailynn
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 77
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    lyabani:
+      email:
+      name: Loay
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 78
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ffalagan:
+      email:
+      name: Freya
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 79
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    afarooq:
+      email:
+      name: Aayan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 80
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    afeliz:
+      email:
+      name: Ariadna
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 81
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    miqbal:
+      email:
+      name: Muhammad
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 82
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    mjaramillo:
+      email:
+      name: Maximiliano
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 83
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    mkhouyaoui:
+      email:
+      name: Moad
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 84
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    skumar:
+      email:
+      name: Sukhdeep
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 85
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 10
+      idioma: punjabi
+    alatif:
+      email:
+      name: Ayesha
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 86
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ymedina:
+      email:
+      name: Yurier
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 87
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    amoutachakkir:
+      email:
+      name: Adam
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 88
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    anasim:
+      email:
+      name: Amber
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 89
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    jpolo:
+      email:
+      name: Jhordi
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 90
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    jraudales:
+      email:
+      name: Jose Daniel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 91
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    frivas:
+      email:
+      name: Fabiola
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 92
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    jrivera:
+      email:
+      name: Jefferson
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 93
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    gsaltos:
+      email:
+      name: Giulia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 94
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    jsilva:
+      email:
+      name: Joel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 95
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    atoure:
+      email:
+      name: Abdoulaye
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 96
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 11
+      idioma: frances
+    bmateo:
+      email:
+      name: Brailin
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 97
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    vgil:
+      email:
+      name: Valquiria
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 100009
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    vandia:
+      email:
+      name: Vanessa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 98
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    yasghir:
+      email:
+      name: Yassine
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 99
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    abarrial:
+      email:
+      name: Ariana
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 100
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    dbenitez:
+      email:
+      name: Dylan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 101
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    jcondori:
+      email:
+      name: Jordi
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 102
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    scortez:
+      email:
+      name: Santiago
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 103
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ecruz:
+      email:
+      name: Erick
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 104
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    jsantos:
+      email:
+      name: Jhosuan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 105
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    ydiaz:
+      email:
+      name: Yennis
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 106
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    ifatmi:
+      email:
+      name: Ilyas
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 107
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    tespinoza:
+      email:
+      name: Tony
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 108
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    aevangelista:
+      email:
+      name: Ainhoa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 109
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    wfrikass:
+      email:
+      name: Walid
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 110
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    hhedda:
+      email:
+      name: El Hassan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 111
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    jakaur:
+      email:
+      name: Jasmeen
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 112
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    aleon:
+      email:
+      name: Andree
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 113
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 4
+      idioma: castellano
+    aneupane:
+      email:
+      name: Aabha
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 114
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    spalchykova:
+      email:
+      name: Sofiia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 115
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    gperez:
+      email:
+      name: Genesis
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 116
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    jpinto:
+      email:
+      name: Jhoan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 117
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    arafay:
+      email:
+      name: Abdul
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 118
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 5
+      idioma: catala
+    araza:
+      email:
+      name: Aima
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 119
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    lsierra:
+      email:
+      name: Leidis
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 120
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    fvidal:
+      email:
+      name: Francesca
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 121
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    czapata:
+      email:
+      name: Charlotte
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 122
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    czoltan:
+      email:
+      name: Cristina
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Puig i Gairalt
+      id: 123
+      type: 1
+      temaID: 2
+      tema: Antiga Roma, romans, la ciutat romana, i els edificis romans.
+      crea: una imatge realista
+      parlant: Camila
+      additional: "Answer only questions related to Ancient Rome. If they ask you about anything else unrelated to the Ancient Rome, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu com eren les ciutats romanes","Descriu un edifici de l'Antiga Roma","Descriu una escena de l'Antiga Roma" ]
+      nivell: 1
+      idioma: catala
+    aorti:
+      email:
+      name: Andres
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 100010
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    dajil:
+      email:
+      name: Douaa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 124
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    fali:
+      email:
+      name: Fahad
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 125
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    wboutafah:
+      email:
+      name: Wael
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 126
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    acano:
+      email:
+      name: Andrea
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 127
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    scolmenarez:
+      email:
+      name: Sofia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 128
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    ocontreras:
+      email:
+      name: Osmer
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 129
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    efreitas:
+      email:
+      name: Emerson
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 130
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    cdiaz:
+      email:
+      name: Camila
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 131
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    rdisla:
+      email:
+      name: Rafael
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 132
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    rhaiek:
+      email:
+      name: Romaisa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 133
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    aessalhi:
+      email:
+      name: Amine
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 134
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    ifatima:
+      email:
+      name: Iman
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 135
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    nfernandez:
+      email:
+      name: Nicolás
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 136
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    jgaleano:
+      email:
+      name: José Fernando
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 137
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    ngonzalez:
+      email:
+      name: Nayara
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 138
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    omartinez:
+      email:
+      name: Owen
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 139
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    mmuhammad:
+      email:
+      name: Muneeb
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 140
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    tmuhammad:
+      email:
+      name: Tayyab
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 141
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    lnaharro:
+      email:
+      name: Lucía
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 142
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    npresciutti:
+      email:
+      name: Nerea
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 143
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    hrabani:
+      email:
+      name: Habeer
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 144
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    jroldan:
+      email:
+      name: Juan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 145
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    oruiz:
+      email:
+      name: Onevy
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 146
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    asenon:
+      email:
+      name: Abril
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 147
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    gsingh:
+      email:
+      name: Gurwinder
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 148
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    vtrinidad:
+      email:
+      name: Víctor
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 149
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    svilla:
+      email:
+      name: Sebastian
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 150
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    svilla:
+      email:
+      name: Sebastian
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 150
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    jzalkaliani:
+      email:
+      name: Jordi
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 151
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    azepeda:
+      email:
+      name: Angel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 152
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    azeaaj:
+      email:
+      name: Abde
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 153
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    mabdul:
+      email:
+      name: Moeez
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 154
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    sasghar:
+      email:
+      name: Sufyan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 155
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    mabrioul:
+      email:
+      name: Malak
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 156
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    maslam:
+      email:
+      name: Muhammad
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 157
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    mcabanillas:
+      email:
+      name: MDolores
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 158
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    wcardenas:
+      email:
+      name: Windorlin
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 159
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    acerro:
+      email:
+      name: Ángel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 160
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    ecolmenarez:
+      email:
+      name: Elena
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 161
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    jcruz:
+      email:
+      name: Jesús
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 162
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    adiaz:
+      email:
+      name: Antonio
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 163
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    fduron:
+      email:
+      name: Fergie
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 164
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    dfernandez:
+      email:
+      name: Daniela
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 165
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    m_fernandez:
+      email:
+      name: Manuel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 166
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    ifigueroa:
+      email:
+      name: Indira
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 167
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    sghanem:
+      email:
+      name: Salim
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 168
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    maguisao:
+      email:
+      name: Maria Alejandra
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 169
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    limran:
+      email:
+      name: Liaba
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 170
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    clara:
+      email:
+      name: Carlos
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 171
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    jmendoza:
+      email:
+      name: Jesser
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 172
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    hmir:
+      email:
+      name: Huma
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 173
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 4
+      idioma: castellano
+    hnoor:
+      email:
+      name: Haider
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 174
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    napresciutti:
+      email:
+      name: Nahuel
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 175
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    krani:
+      email:
+      name: Khadija
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 176
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    kromero:
+      email:
+      name: Krixon
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 177
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    hsingh:
+      email:
+      name: Harnoorbir
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 178
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    asoriano:
+      email:
+      name: Ainara
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 179
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    bvalencia:
+      email:
+      name: Bryan
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 180
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    kzaman:
+      email:
+      name: Khonk
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: Rafael Alberti
+      id: 181
+      type: 1
+      temaID: 4
+      tema: La dictadura, el catalanisme i les guerres mundials.
+      crea: una imatge realista
+      parlant: Dora
+      additional: "Answer only questions related to History. If they ask you about anything else unrelated to History, politely say you don't know anything. You must always answer politely."
+      pregunta: [ "Descriu una situació de la Segona Guerra Mundial","Descriu una situació de la Primera Guerra Mundial","Descriu un moment de la història del catalanisme" ]
+      nivell: 1
+      idioma: catala
+    aroa:
+      email:
+      name: Alberto
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: MH
+      id: 100011
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    apenades:
+      email:
+      name: Ainoa
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: MH
+      id: 100012
+      type: 1
+      temaID: 3
+      tema: Aigua, els seus estats i les seves propietats
+      crea: una imatge foto realista
+      parlant: Danu
+      additional: "Answer in Catalan in short sentences. Maximum 2 sentences. Answer only questions related to the water cycle, properties of water, states of water and changes in the state of water and drought. If you are asked about anything else not related to water, say that the question must be related to water. Always answer in Catalan and always answer politely."
+      pregunta: [ "Descriu com seria un paisatge sense aigua","Descriu com es un paisatge amb molta aigua","Descriu com seria una ciutat amb sequia" ]
+      nivell: 1
+      idioma: catala
+    jleirado:
+      email:
+      name: Julia
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: IE Rafael Alberti
+      id: 100004
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: comic
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "quina funcio fa l'aparell circulatori del cos","escriu les parts de aparell excretor","descriu aparell respiratori" ]
+      nivell: 2
+      idioma: castellano
+    oriol:
+      email:
+      name: Oriol
+      password: $2b$12$qipbBjHSrpVSa4MVPQ0aB.MghBX.shLTQ2Qr08fRtBPjnAt09i60C
+      escola: ARGET URV
+      id: 200001
+      type: 1
+      temaID: 1
+      tema: els aparells del cos humà (digestiu, respiratori, circulatori, excretor, locomotor o reproductor)
+      crea: una viñeta de comic sense text al estil Asterix
+      parlant: Patrícia
+      additional: "Answer only questions that have to do with the human body and its systems and apparatus: digestive, respiratory, circulatory, excretory, locomotor and reproductive. If you are asked about anything else unrelated to the human body, answer politely that you know nothing. You should always answer politely and always in Catalan, unless you are asked to do so."
+      pregunta: [ "Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells","Descriu el que saps del cos humà i els aparells" ]
+      nivell: 4
+      idioma: urdu
+
+cookie:
+  expiry_days: 1
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - xavi@fablabbcn.org

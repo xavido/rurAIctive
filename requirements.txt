@@ -1,0 +1,16 @@
+beautifulsoup4==4.12.2
+pdfkit==1.0.0
+mysql-connector-python==8.0.32
+openai==1.3.7
+SpeechRecognition==3.10.1
+streamlit-authenticator==0.2.3
+streamlit-chat==0.1.1
+streamlit-cookies-manager==0.2.0
+streamlit-login-auth-ui==0.2.0
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.6
+streamlit-webrtc==0.47.1
+streamlit==1.29.0
+streamlit-audiorec
+streamlit-audiorecorder
+audio_recorder_streamlit
