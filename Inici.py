@@ -92,4 +92,3 @@ if submit_button and text!="":
     print('ok4')
     file.close()  # close file and FTP
     pregunta = pregunta + 1
-    st.text_input(value="")
