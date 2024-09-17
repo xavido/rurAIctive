@@ -1,18 +1,11 @@
 # Inici.py
-
-import streamlit as st
-
-import pickle
-from pathlib import Path
-import streamlit_authenticator as stauth
-import yaml
-from yaml.loader import SafeLoader
-import pandas as pd
-import json
 import os
 import streamlit as st
 from openai import OpenAI
 import app_component as au
+import streamlit_authenticator as stauth
+import yaml
+from yaml.loader import SafeLoader
 import sys
 import speech_recognition as sr
 import random
@@ -32,61 +25,70 @@ db_password =  st.secrets["DB_PASSWORD"]
 
 client = OpenAI(api_key=st.secrets["auto_pau"])
 
-def main():
-    import app_component as au
 
-    st.set_page_config(
-        page_title="rurAIctive ",
-        page_icon="https://api.dicebear.com/5.x/bottts-neutral/svg?seed=gptLAb"  #
-    )
+parlantTema = ''
+parlantCrea = ''
+parlantID = 0
+parlantTemaID = 0
+parlantPregunta = ''
+pregunta = 0
 
-    st.markdown(
-        "<style>#MainMenu{visibility:hidden;}</style>",
-        unsafe_allow_html=True
-    )
+with st.form("images_form"):
+  text = st.text_input("What does the topic in the IAAC presentation suggest to you?" )
+  submit_button = st.form_submit_button(label="Generate Image")
 
-    au.render_cta()
+if submit_button:
+  st.write("Generating Image...")
 
-    # st.markdown("---")
-    #au.robo_avatar_component()
+  response = client.images.generate(
+      model="dall-e-3",
+      prompt="Fes una  imatge realista" + " amb aquesta descripció:" + text + ".",
+      size="1024x1024",
+      quality="standard",
+      n=1
+  )
+  for i in range(1):
+    url = response.data[i].url
+    st.image(url, caption=f"Imatge: {text}", use_column_width=True)
+    res = requests.get(response.data[0].url)
+    missatge ="Descriu una imatge..."
+    if parlantTemaID <= 0:
+        parlantTemaID = 5555555
 
-    with open('pwd.yaml') as file:
-        config = yaml.load(file, Loader=SafeLoader)
+    if parlantID <= 0:
+        parlantID = 555555540
 
-    authenticator = stauth.Authenticate(
-        config['credentials'],
-        config['cookie']['name'],
-        config['cookie']['key'],
-        config['cookie']['expiry_days'],
-        config['preauthorized']
-    )
+    creaName = str(parlantID) + "_" + str(time.time()) + "_" + str(parlantTemaID) + ".jpg"
+    with open(creaName, 'wb') as f:
+        f.write(res.content)
 
-    #print(config['cookie']['name'])
-    # can be main or sidebar
-    name, authentication_status, username = authenticator.login("Welcome to rurAIctive, an AI tool for Dynamo's and Technical Partners", "main")
+    # Crea una conexión con la base de datos
+    conn = mysql.connector.connect(host=db_host, port=db_port, database=db_name, user=db_user,
+                                       password=db_password)
 
-    parlantTema =''
+    # Crea un cursor para ejecutar comandos SQL
+    cur = conn.cursor()
 
-    for key,value in config['credentials']['usernames'].items():
-        if key == username:
-            parlantTema = value['tema']
+     # Ejecuta una consulta SQL
+    sql = "INSERT INTO teclaCOMIC (id,url,final,escena,descripcio,tema) VALUES (%s,%s,%s,%s,%s,%s)"
 
-    if authentication_status == False:
-        st.error("L'usuari o contrasenya és incorrecte")
+    valores = (parlantID, creaName, 0, missatge, text, parlantTemaID)
+    cur.execute(sql, valores)
 
-    if authentication_status == None:
-        st.warning("Introdueix el teu usuari i contrasenya")
+    # Obtiene los resultados de la consulta
+    results_database = cur.fetchall()
+    conn.commit()
 
-    if authentication_status:
-        # Main Streamlit app starts here
-        st.markdown("#### Descriu una imatge....")
-        with st.expander("Descriu...", expanded=True):
-            st.markdown(
-                "'Descriu...', és una eina col·laborativa on els teus textos cobren vida en forma d'imatges'. Aquí, la teva imaginació és el límit: descriu escenes, personatges i diàlegs, i nosaltres els convertirem en impressionants còmics visuals.")
-
-        # ---- Logout ----
-        authenticator.logout("Tancar Sessió", "sidebar")
-
-
-if __name__ == '__main__':
-        main()
+    # Cierra la conexión con la base de datos
+    cur.close()
+    conn.close()
+    ftp_server = ftplib.FTP(st.secrets["PA_FTP"], st.secrets["PA_FTPUSER"], st.secrets["PA_COD"])
+    file = open(creaName, 'rb')  # file to send
+    print('ok2')
+    # Read file in binary mode
+    ftp_server.storbinary('STOR ' + creaName, file)
+    print('ok3')
+    ftp_server.quit()
+    print('ok4')
+    file.close()  # close file and FTP
+    pregunta = pregunta + 1
