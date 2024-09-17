@@ -49,9 +49,9 @@ if submit_button and text!="":
   )
   for i in range(1):
     url = response.data[i].url
-    st.image(url, caption=f"Imatge: {text}", use_column_width=True)
+    st.image(url, caption=f"Image: {text}", use_column_width=True)
     res = requests.get(response.data[0].url)
-    missatge ="Descriu una imatge..."
+    missatge ="Describe an image..."
     if parlantTemaID <= 0:
         parlantTemaID = 5555555
 
