@@ -37,7 +37,7 @@ with st.form("images_form"):
   text = st.text_input("What does the topic in the IAAC presentation suggest to you?" )
   submit_button = st.form_submit_button(label="Generate Image")
 
-if submit_button:
+if submit_button and text!="":
   st.write("Generating Image...")
 
   response = client.images.generate(
